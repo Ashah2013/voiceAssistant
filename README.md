@@ -39,27 +39,27 @@ This is where natural language processing comes in. This is a less complicated f
   
   ## Features 
 Search
-   **Search**<br/>
-For making queries from google, the given format should be adopted.
-Google your query<br/>
-i.e. search google python
+      "**Search**<br/>
+   For making queries from google, the given format should be adopted.
+   Google your query<br/>
+   i.e. search google python
 
-   **Accessing youtube videos**<br/>
-In order to access videos from youtube format is,<br/>
-search Youtube “video you want to search for”<br/>
-i.e. search youtube All is well
+      **Accessing youtube videos**<br/>
+   In order to access videos from youtube format is,<br/>
+   search Youtube “video you want to search for”<br/>
+   i.e. search youtube All is well
 
-   **Accessing article from Wikipedia**<br/>
-In order to access article from wikipedia format is,<br/>
-search Wikipedia “article you want to search for”<br/>
-i.e. search wikipedia Narendra Modi
+      **Accessing article from Wikipedia**<br/>
+   In order to access article from wikipedia format is,<br/>
+   search Wikipedia “article you want to search for”<br/>
+   i.e. search wikipedia Narendra Modi"
 
 
   # Technical Aspect
   It is built on using two major modules-
   1. [gTTS]( https://pypi.org/project/gTTS/)
-  2. [speech_Recognition](https://pypi.org/project/SpeechRecognition/)
-  along with
+  2. [speech_Recognition](https://pypi.org/project/SpeechRecognition/)<br/>
+  along with<br/>
   - [Playsound](https://pypi.org/project/playsound/)
   
   # Installation
