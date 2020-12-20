@@ -77,13 +77,13 @@ This is where natural language processing comes in. This is a less complicated f
    "play songs" or "play music"
     Press 'p' to pause, 'r' to resume and 'e' to stop the music
     
-  - Jokes
+  - Jokes</br>
    say jokes
    
-  - Time
+  - Time</br>
   say time
   
-  - Date
+  - Date</br>
   say date
 
   # Technical Aspect
