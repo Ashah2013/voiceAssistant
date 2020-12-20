@@ -38,7 +38,7 @@ This is where natural language processing comes in. This is a less complicated f
   A person who has never interacted with the Command Line Interface or even the UI interface can do daily usage stuff using python personal assistant
   
   # Features 
-  ##Search 
+   - Search 
      
      **Search**<br/>
    For making queries from google, the given format should be adopted.
