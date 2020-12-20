@@ -76,12 +76,21 @@ This is where natural language processing comes in. This is a less complicated f
   - Play random music</br>
    "play songs" or "play music"
     Press 'p' to pause, 'r' to resume and 'e' to stop the music
+    
+  - Jokes
+   say jokes
+   
+  - Time
+  say time
+  
+  - Date
+  say date
 
   # Technical Aspect
   It is built on using two major modules-
   1. [gTTS]( https://pypi.org/project/gTTS/)
   2. [speech_Recognition](https://pypi.org/project/SpeechRecognition/)<br/>
-  along with<br/>
+  along with
   - [Playsound](https://pypi.org/project/playsound/)
   
   # Installation
