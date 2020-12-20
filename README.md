@@ -1,7 +1,7 @@
 # voiceAssistant
 Table of Content
 
-    -Screenshot
+   - Screenshot
     Idea of application
     Programming Practices
     Building Strategy
