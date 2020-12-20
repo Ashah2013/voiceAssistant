@@ -8,14 +8,13 @@ Table of Content
    - [Overview](#Overview)
    - [Motivation](#Motivation)
    - [Technical Aspect](#Technical-Aspect)
+   - [Features](#Features)
    - [Installation](#Installation)
    - [Demo on youtube](#Demo-on-youtube)
-   - [Bug / Feature Request](#Bug-/-Feature-Request)
-   - [Technologies Used](#Technologies-used)
-   - [License](#License)
-   - [Credits](#Credits)
+   - [Bug / Feature Request](#Bug-/-Feature-Request)]
    
   # Screenshot 
+  
   # Idea of Application
   I have built a virtual assistant, also called an AI assistant or digital assistant, that is an application program that understands natural language voice commands and completes tasks for the user.
 
@@ -39,21 +38,29 @@ This is where natural language processing comes in. This is a less complicated f
   A person who has never interacted with the Command Line Interface or even the UI interface can do daily usage stuff using python personal assistant
   
   ## Features 
-
-**Queries from web**<br/>
+Search
+   **Search**<br/>
 For making queries from google, the given format should be adopted.
 Google your query<br/>
 i.e. search google python
 
-**Accessing youtube videos**<br/>
+   **Accessing youtube videos**<br/>
 In order to access videos from youtube format is,<br/>
-Youtube “video you want to search for”<br/>
-i.e. youtube All is well
+search Youtube “video you want to search for”<br/>
+i.e. search youtube All is well
+
+   **Accessing article from Wikipedia**<br/>
+In order to access article from wikipedia format is,<br/>
+search Wikipedia “article you want to search for”<br/>
+i.e. search wikipedia Narendra Modi
+
 
   # Technical Aspect
   It is built on using two major modules-
   1. [gTTS]( https://pypi.org/project/gTTS/)
   2. [speech_Recognition](https://pypi.org/project/SpeechRecognition/)
+  along with
+  - [Playsound](https://pypi.org/project/playsound/)
   
   # Installation
   The Code is written in Python 3.7. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
@@ -73,6 +80,4 @@ python voiceAssistance.py
   
   If you'd like to request or add a new function, feel free to do so by opening an issue [here](https://github.com/Ashah2013/voiceAssistant/issues/new).
   
-  # Technologies used
-  # License
-  # Credits
+
