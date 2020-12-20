@@ -38,6 +38,18 @@ This is where natural language processing comes in. This is a less complicated f
   # Motivation
   A person who has never interacted with the Command Line Interface or even the UI interface can do daily usage stuff using python personal assistant
   
+  ## Features 
+
+**Queries from web**<br/>
+For making queries from google, the given format should be adopted.
+Google your query<br/>
+i.e. search google python
+
+**Accessing youtube videos**<br/>
+In order to access videos from youtube format is,<br/>
+Youtube “video you want to search for”<br/>
+i.e. youtube All is well
+
   # Technical Aspect
   It is built on using two major modules-
   1. [gTTS]( https://pypi.org/project/gTTS/)
@@ -48,13 +60,18 @@ This is where natural language processing comes in. This is a less complicated f
 ```bash
 pip install -r requirements.txt
 ```
+To run the assistant 
+```bash
+python voiceAssistance.py
+```
 
   # Demo on youtube
   [PEPSA](https://www.youtube.com/playlist?list=PL0GCs4QyYZivxt3AQhvSgJqsUEf1ZqhCn)
   
   # Bug / Feature request
-  Incase any bug is found, kindly open an issue [here](https://github.com/rowhitswami/Indian-Currency-Prediction/issues/new) by including your search query and the expected result.
-  If you'd like to request or add a new function, feel free to do so by opening an issue [here](https://github.com/rowhitswami/Indian-Currency-Prediction/issues/new).
+  Incase any bug is found, kindly open an issue [here](https://github.com/Ashah2013/voiceAssistant/issues/new) by including your search query and the expected result.
+  
+  If you'd like to request or add a new function, feel free to do so by opening an issue [here](https://github.com/Ashah2013/voiceAssistant/issues/new).
   
   # Technologies used
   # License
