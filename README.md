@@ -14,10 +14,13 @@ Table of Content
    - [Bug / Feature Request](#Bug-/-Feature-Request)
    
   # Screenshot 
-  ![Prior Screenshot](https://github.com/Ashah2013/voiceAssistant/issues/1)
-  ![Runtime1 Screenshot]https://github.com/Ashah2013/voiceAssistant/issues/3)
-  ![Runtime2 Screenshot]https://github.com/Ashah2013/voiceAssistant/issues/2)
-  ![End Screenshot]https://github.com/Ashah2013/voiceAssistant/issues/4)
+  ![prev](https://user-images.githubusercontent.com/63425649/102718342-a95cd000-430d-11eb-9ed4-f20b70c6a7a9.JPG)
+
+  ![curr](https://user-images.githubusercontent.com/63425649/102718387-e032e600-430d-11eb-9902-2a2a1368b8c9.JPG)
+
+  ![run](https://user-images.githubusercontent.com/63425649/102718372-cf827000-430d-11eb-94d1-862e1b9a987e.JPG)
+
+  ![end](https://user-images.githubusercontent.com/63425649/102718407-f3de4c80-430d-11eb-9c55-7229d9dc2575.JPG)
   
   # Idea of Application
   I have built a virtual assistant, also called an AI assistant or digital assistant, that is an application program that understands natural language voice commands and completes tasks for the user.
