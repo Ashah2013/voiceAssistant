@@ -1,7 +1,7 @@
 # voiceAssistant
 Table of Content
 
-   - Screenshot
+   - [Screenshot](#screenshot)
    - Idea of application
    - Programming Practices
    - Building Strategy
@@ -14,3 +14,5 @@ Table of Content
    - Technologies Used
    - License
    - Credits
+   
+  # Screenshot 
