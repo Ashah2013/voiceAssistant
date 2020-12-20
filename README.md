@@ -40,17 +40,42 @@ This is where natural language processing comes in. This is a less complicated f
   # Features 
    - Search 
      
-     **Search**<br/>
+     **Search Google**<br/>
    For making queries from google, the given format should be adopted.
    Google your query<br/>
    i.e. search google python
   
-    **Accessing youtube videos**<br/>
+   **Accessing youtube videos**<br/>
    In order to access videos from youtube format is,<br/>
    search Youtube “video you want to search for”<br/>
    i.e. search youtube All is well
+   
+   **Accessing article from Wikipedia**<br/>
+   In order to access article from wikipedia format is,<br/>
+   search Wikipedia “article you want to search for”<br/>
+   i.e. search wikipedia India
+   
+   - Open Application
+   To open any application,<br/>
+   open Application "application name"
+   i.e. open application powerpoint
+   
+   - Close Application
+   To close any application,<br/>
+   close Application "application name"
+   i.e. close application powerpoint
 
-
+   - Learn programming practices
+      - for tutorial, it will open the downloaded tutorials</br>    
+      tutorial "tutorial name"
+      i.e. tutorial bash script
+      - for assignments, it will open the downloaded assignments</br>    
+      assignment "assignment name"
+      i.e. assignment bash script
+      
+   - Play random music
+   "play songs" or "play music"
+    Press 'p' to pause, 'r' to resume and 'e' to stop the music
 
   # Technical Aspect
   It is built on using two major modules-
