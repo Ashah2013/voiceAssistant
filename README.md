@@ -66,11 +66,11 @@ This is where natural language processing comes in. This is a less complicated f
    i.e. close application powerpoint
 
   - Learn programming practices
-      - for tutorial, it will open the downloaded tutorials</br>    
-      tutorial "tutorial name"
+      - for tutorial, it will open the downloaded tutorials  
+      tutorial "tutorial name"</br>
       i.e. tutorial bash script
-      - for assignments, it will open the downloaded assignments</br>    
-      assignment "assignment name"
+      - for assignments, it will open the downloaded assignments  
+      assignment "assignment name"</br>
       i.e. assignment bash script
       
   - Play random music
