@@ -14,6 +14,10 @@ Table of Content
    - [Bug / Feature Request](#Bug-/-Feature-Request)
    
   # Screenshot 
+  https://github.com/Ashah2013/voiceAssistant/issues/1
+  https://github.com/Ashah2013/voiceAssistant/issues/3
+  https://github.com/Ashah2013/voiceAssistant/issues/2
+  https://github.com/Ashah2013/voiceAssistant/issues/4
   
   # Idea of Application
   I have built a virtual assistant, also called an AI assistant or digital assistant, that is an application program that understands natural language voice commands and completes tasks for the user.
