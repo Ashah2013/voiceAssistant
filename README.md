@@ -2,7 +2,7 @@
 Table of Content
 
    - [Screenshot](#screenshot)
-   - [Idea of application](#Idea of Application)
+   - [Idea of application](#idea of Application)
    - [Programming Practices](#Programming Practices)
    - [Building Strategy](#Building strategy)
    - [Overview](#Overview)
