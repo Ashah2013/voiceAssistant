@@ -73,7 +73,7 @@ This is where natural language processing comes in. This is a less complicated f
       assignment "assignment name"</br>
       i.e. assignment bash script
       
-  - Play random music
+  - Play random music</br>
    "play songs" or "play music"
     Press 'p' to pause, 'r' to resume and 'e' to stop the music
 
