@@ -2,16 +2,16 @@
 Table of Content
 
    - [Screenshot](#screenshot)
-   - [Idea of application](#idea of Application)
-   - [Programming Practices](#Programming Practices)
-   - [Building Strategy](#Building strategy)
+   - [Idea of application](#idea-of-Application)
+   - [Programming Practices](#Programming-Practices)
+   - [Building Strategy](#Building-strategy)
    - [Overview](#Overview)
    - [Motivation](#Motivation)
-   - [Technical Aspect](#Technical Aspect)
+   - [Technical Aspect](#Technical-Aspect)
    - [Installation](#Installation)
-   - [Demo on youtube](#Demo on youtube)
-   - [Bug / Feature Request](#Bug / Feature Request)
-   - [Technologies Used](#Technologies used)
+   - [Demo on youtube](#Demo-on-youtube)
+   - [Bug / Feature Request](#Bug-/-Feature-Request)
+   - [Technologies Used](#Technologies-used)
    - [License](#License)
    - [Credits](#Credits)
    
