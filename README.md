@@ -38,22 +38,7 @@ This is where natural language processing comes in. This is a less complicated f
   A person who has never interacted with the Command Line Interface or even the UI interface can do daily usage stuff using python personal assistant
   
   ## Features 
-Search
-      **Search**<br/>
-   For making queries from google, the given format should be adopted.
-   Google your query<br/>
-   i.e. search google python
-
-      **Accessing youtube videos**<br/>
-   In order to access videos from youtube format is,<br/>
-   search Youtube “video you want to search for”<br/>
-   i.e. search youtube All is well
-
-      **Accessing article from Wikipedia**<br/>
-   In order to access article from wikipedia format is,<br/>
-   search Wikipedia “article you want to search for”<br/>
-   i.e. search wikipedia Narendra Modi
-
+  
 
   # Technical Aspect
   It is built on using two major modules-
